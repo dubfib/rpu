@@ -1,0 +1,36 @@
+{
+  "name": "rpu",
+  "version": "1.0.3",
+  "preferGlobal": true,
+  "bin": {
+    "rpu": "index.js"
+  },
+  "dependencies": {
+    "commander": "^9.2.0",
+    "inquirer": "^8.2.4",
+    "shelljs": "^0.8.5",
+    "simple-json-db": "^2.0.0"
+  },
+  "description": "A updater CLI tool for node.js that updates all of your NPM packages in one command and has a built in deny list",
+  "author": "dubfib",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubfib/rpu.git"
+  },
+  "keywords": [
+    "rpu",
+    "node-package-helper",
+    "node",
+    "package",
+    "helper",
+    "updater",
+    "cli",
+    "updater-cli",
+    "node-updater-cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/dubfib/rpu/issues"
+  },
+  "homepage": "https://github.com/dubfib/rpu#readme"
+}
