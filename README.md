@@ -67,4 +67,21 @@
   <p>v1.2.0 > v2.2.4</p>  
   <code>$ rpu upgrade latest</code>
 </details>
+
+<h2>Contributing</h2>
+<details>
+  <summary>Getting Source</summary>
+  <code>$ git clone https://github.com/dubfib/rpu.git</code>
+</details>
+
+<details>
+  <summary>Testing Globally</summary>
+  <code>$ npm install -g ./</code>
+</details>
+
+<details>
+  <summary>Submitting</summary>
+  <code>https://github.com/dubfib/rpu/pulls</code>
+</details>
+
 </div>
