@@ -87,6 +87,6 @@
 <h2>Other</h2>
 <details>
   <summary>License</summary>
-  MIT License
+  MIT
 </details>
 </div>
