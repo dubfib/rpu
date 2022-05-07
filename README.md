@@ -81,7 +81,7 @@
 
 <details>
   <summary>Submitting</summary>
-  <code>https://github.com/dubfib/rpu/pulls</code>
+  https://github.com/dubfib/rpu/pulls
 </details>
 
 </div>
