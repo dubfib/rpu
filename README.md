@@ -84,4 +84,5 @@
   https://github.com/dubfib/rpu/pulls
 </details>
 
+This project is using the <code>MIT</code>License
 </div>
